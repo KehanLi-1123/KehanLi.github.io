@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m [Kehan]([https://github.com/academicpages/academicpages.github.io](https://www.linkedin.com/in/kehanli/)).
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+Hi! I’m [Kehan](https://www.linkedin.com/in/kehanli/).
 
 My work and research
 ======
