@@ -9,4 +9,4 @@ tags:
 ---
 
 
-![GBM animation](https://kehanli-1123.github.io/videos/gbm_paths_with_analytic_std.gif)
+![GBM animation](https://github.com/KehanLi-1123/KehanLi.github.io/blob/master/videos/gbm_paths_with_analytic_std.gif)
