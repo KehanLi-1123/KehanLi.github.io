@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'GBM implied vol versus simulated empirical standard deviation'
+date: 2025-06-02
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -8,4 +8,8 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
+<video controls width="100%">
+  <source src="https://github.com/yourusername/yourrepo/raw/main/videos/gbm_paths_with_analytic_std.gif" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
