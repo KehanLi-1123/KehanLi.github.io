@@ -14,3 +14,5 @@ tags:
 <div style="text-align:center;">
   <img src="https://kehanli-1123.github.io/videos/gbm_paths_with_analytic_std.gif" alt="GBM animation" width="80%" />
 </div>
+
+![GBM animation](https://github.com/KehanLi-1123/KehanLi.github.io/blob/master/videos/gbm_paths_with_analytic_std.gif?raw=true)
