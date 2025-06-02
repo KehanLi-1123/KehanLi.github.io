@@ -9,7 +9,22 @@ tags:
 ---
 
 
-<video controls width="100%">
-  <source src="https://github.com/yourusername/yourrepo/raw/main/videos/gbm_paths_with_analytic_std.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<script type="text/javascript" src="https://chemapps.stolaf.edu/jmol/jsmol/JSmol.min.js"></script>
+
+<script type="text/javascript">
+  var Info = {
+    width: 500,
+    height: 500,
+    debug: false,
+    j2sPath: "https://chemapps.stolaf.edu/jmol/jsmol/j2s",
+    script: "load /videos/gbm_paths_with_analytic_std.gif",
+    use: "HTML5",
+    readyFunction: null
+  };
+</script>
+
+<script type="text/javascript">
+  Jmol.getApplet("jsmolApplet0", Info);
+</script>
+
+<div id="jsmolApplet0" class="jsmolApplet"></div>
