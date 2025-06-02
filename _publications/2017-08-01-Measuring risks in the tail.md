@@ -1,7 +1,7 @@
 ---
 title: "Measuring risks in the tail: The extreme VaR and its confidence interval"
 collection: publications
-category: research article
+category: manuscripts
 permalink: https://journals.sagepub.com/doi/abs/10.3233/RDA-170128
 excerpt: ''
 date: 2017-08-01
