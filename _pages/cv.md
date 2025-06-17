@@ -19,6 +19,6 @@ Work experience
 ======
 * Jun2017 - May2024: Quant in Finance Division
   * Goldman Sachs
-  * Fixed Income derivatives independent valuation (IPV is part of the [<span style="color:blue">Product Control</span>](https://en.wikipedia.org/wiki/Product_control) function.)
+  * Fixed Income derivatives independent valuation (Independent Valuation, also known as Valuation Control, is part of the [<span style="color:blue">Product Control</span>](https://en.wikipedia.org/wiki/Product_control) function at a bank or other financial institutions such as hedge funds.)
 
   
