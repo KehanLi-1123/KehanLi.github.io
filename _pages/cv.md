@@ -19,6 +19,6 @@ Work experience
 ======
 * Jun2017 - May2024: Quant in Finance Division
   * Goldman Sachs
-  * Fixed Income derivatives independent valuation
+  * Fixed Income derivatives independent valuation (part of [<span style="color:blue">Product Control</span>](https://en.wikipedia.org/wiki/Product_control))
 
   
