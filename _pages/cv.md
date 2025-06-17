@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics, Université Paris 1 Panthéon-Sorbonne, 2014-2017
+* Ph.D. in Applied Mathematics, Université Paris 1 Panthéon-Sorbonne, 2014-2017
 * M.S. in Mathematical Economics and Quantitative Finance, Université Paris 1 Panthéon-Sorbonne, 2012-2014
 * B.S. in Applied Mathematics, Nankai University, 2007-2011
 
