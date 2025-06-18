@@ -6,8 +6,7 @@ If one accepts the argument that a certain degree of discrimination is ingrained
 
 Below is what ChatGPT said—enjoy.
 
----
----
+**━━━━━━━━━━━━━━━━━━━**
 
 
 Racism and regional discrimination are not merely social issues — they are deeply rooted in how the human brain processes information, identity, and fear. By exploring the **psychological mechanisms** behind such behaviors, we can better understand not only why discrimination happens, but also how to reduce it.
