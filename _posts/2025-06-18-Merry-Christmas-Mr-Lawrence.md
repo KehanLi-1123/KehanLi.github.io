@@ -7,6 +7,8 @@ In the 1983 film *Merry Christmas, Mr. Lawrence*, there is a poignant exchange b
 
 To Yonoi, **death is not defeat; surrender is**. Suicide, in this worldview, is the ultimate expression of loyalty, courage, and self-respect. Lawrence, however, is deeply troubled by this logic. From his British perspective, **suicide represents not strength, but escape—an act of cowardice** rather than honor. This clash is not just about military conduct, but about two fundamentally different moral frameworks: **one governed by external judgment and societal shame**, the other by internal conscience and personal guilt.
 
+![Scene from *Merry Christmas, Mr. Lawrence*](https://raw.githubusercontent.com/KehanLi-1123/KehanLi.github.io/master/images/MerryChristmasMrLawrence.jpg)
+
 This conversation becomes a powerful entry point into understanding Japan’s culture of shame—and how it shapes ideals of honor, identity, and moral action. In Japanese society, morality is often governed not by internal conscience, but by **external judgment**—what others see and think. This is what scholars call a **“culture of shame.”** It contrasts sharply with the **“culture of guilt”** found in Western, especially Christian-influenced, societies, where morality is rooted in **internalized rules** and **personal guilt.**
 
 ---
