@@ -4,6 +4,19 @@ Measuring attitudes like racism and discrimination is inherently difficult. Thes
 
 This post explains how researchers attempt to measure such sensitive topics, based on a large-scale study involving over 910,000 people.
 
+## 📑 Table of Contents
+
+1. [📝 Self-Report Scales](#1--self-report-scales)
+2. [📝 Implicit Measures (IAT)](#2--implicit-measures-iat)
+3. [📝 Scale Evaluation with IRT and CFA](#3--scale-evaluation-with-irt-and-cfa)
+4. [📝 Nomological Network Analysis](#4--nomological-network-analysis)
+5. [📝 Massive Data Sets](#5--massive-data-sets)
+6. [📝 Limitations and Recommendations](#6--limitations-and-recommendations)
+7. [📝 Interpreting the Figure on Racial Resentment](#7--interpreting-the-figure-on-racial-resentment)
+   - [7.1 🧩 What it means](#71--what-it-means)
+   - [7.2 🧩 Why it matters](#72--why-it-matters)
+8. [📝 Reference](#8--reference)
+
 ---
 
 ## 1. 📝 Self-Report Scales
@@ -24,7 +37,7 @@ Researchers score these responses to assess levels of explicit racial bias.
 
 ---
 
-## 2. ⚡ Implicit Measures (IAT)
+## 2. 📝 Implicit Measures (IAT)
 
 To get around self-censorship, researchers often use **indirect tools** like the **Implicit Association Test (IAT)**.
 
@@ -34,7 +47,7 @@ The assumption is that **faster reaction times** for certain associations reflec
 
 ---
 
-## 3. 🔧 Scale Evaluation with IRT and CFA
+## 3. 📝 Scale Evaluation with IRT and CFA
 
 After data collection, researchers use advanced tools to assess **how well the scale works**.
 
@@ -44,7 +57,7 @@ After data collection, researchers use advanced tools to assess **how well the s
 
 ---
 
-## 4. 🧭 Nomological Network Analysis
+## 4. 📝 Nomological Network Analysis
 
 Researchers also study how racism scales correlate with other psychological traits. This is known as mapping a **nomological network**.
 
@@ -54,7 +67,7 @@ However, if multiple scales show **almost identical patterns**, they might not b
 
 ---
 
-## 5. 🌍 Massive Data Sets
+## 5. 📝 Massive Data Sets
 
 The study referenced used **data from over 910,000 people**, likely gathered through:
 
@@ -66,7 +79,7 @@ Large sample sizes help with statistical power, but they also **amplify issues w
 
 ---
 
-## ⚠️ Limitations and Recommendations
+## 6. 📝 Limitations and Recommendations
 
 - People may not report their true attitudes (social desirability bias).
 - Some scales are **internally consistent** but fail to reflect the full range of beliefs.
@@ -76,7 +89,7 @@ Researchers recommend both **careful selection** of validated instruments and **
 
 ---
 
-## 📊 Interpreting the Figure on Racial Resentment
+## 7. 📝 Interpreting the Figure on Racial Resentment
 
 ![Racial Resentment Figure](https://raw.githubusercontent.com/KehanLi-1123/KehanLi.github.io/master/images/racial_resentment.png)
 
@@ -87,7 +100,7 @@ The figure plots two key elements along the **Racial Resentment** continuum (x-a
 
 2. **Black line (secondary y-axis, right):** This is an **Item Information Curve**, derived from **Item Response Theory (IRT)**. It shows how much precision the scale achieves at different score levels.
 
-### 🧩 What it means
+### 7.1 🧩 What it means
 
 - **Peak of the black curve at the left (around –4 to –2):** Indicates the scale is **most informative** (i.e., precise with lower resentment scores).
 - **Flat or trough regions (around –1 to +2):** The scale provides **little information** here—meaning it can't reliably distinguish between respondents with mild to moderate resentment.
@@ -100,7 +113,7 @@ Combined with the density plot:
 
 ---
 
-### 🔍 Why it matters
+### 7.2 🧩 Why it matters
 
 - **Measurement precision is uneven**: The scale is "over-tuned" for very low or very high resentment and under-performs near average scores.
 - **Floor and ceiling effects are present**, as mentioned in the article: respondents bunch near the mid‑range, where the instrument is least sensitive.
@@ -109,7 +122,7 @@ Combined with the density plot:
 This kind of figure is a classic output of **IRT-based validation**, and aligns with the study’s broader findings that many scales have **adequate reliability but poor model fit** and **limited latent score precision**, especially across large samples :contentReference[oaicite:1]{index=1}.
 
 
-## 📚 Reference
+## 8. 📝 Reference
 
 > Skinner-Dorkenoo, A. L., Andreychik, M. R., Martingano, A. J., et al. (2023). *Evaluating the validity of race-related attitude and belief measures: Insights from over 900,000 respondents*. *Behavior Research Methods*.  
 [https://link.springer.com/article/10.3758/s13428-022-01873-w](https://link.springer.com/article/10.3758/s13428-022-01873-w)
