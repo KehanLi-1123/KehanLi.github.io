@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [A Naive Example of Dynamic Programming](#a-naive-example-of-dynamic-programming)
+- [A Naive Example of Dynamic Programming](#1-a-naive-example-of-dynamic-programming-minimum-coin-change-problem)
   - [Problem Statement](#problem-statement)
   - [What is Dynamic Programming?](#what-is-dynamic-programming)
   - [Approach](#approach)
