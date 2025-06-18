@@ -99,9 +99,9 @@ Define:
 
 The Bellman equation is:
 
-\\[
-C_t(q) = \min_{v} \left\{ \text{ImmediateCost}(q, v) + C_{t+1}(q - v) \right\}
-\\]
+\[
+C_t(q) = \min_{v} \left( \text{ImmediateCost}(q, v) + C_{t+1}(q - v) \right)
+\]
 
 This is the **Dynamic Programming Principle (DPP)**:
 
@@ -119,9 +119,9 @@ Let \\( V(t, q) \\) be the value function: the minimal expected cost from time \
 
 The DPP in continuous time becomes:
 
-\\[
-V(t, q) = \min_v \left\{ \text{cost over } \Delta t + V(t + \Delta t, q - v \Delta t) \right\}
-\\]
+\[
+V(t, q) = \min_v \left( \text{cost over } \Delta t + V(t + \Delta t, q - v \Delta t) \right)
+\]
 
 Using Taylor expansion:
 
@@ -131,9 +131,9 @@ V(t + \Delta t, q - v \Delta t) \approx V(t, q) + \partial_t V \cdot \Delta t - 
 
 Substituting:
 
-\\[
-0 = \min_v \left\{ \text{InstantaneousCost}(q, v) + \partial_t V - v \partial_q V \right\}
-\\]
+\[
+0 = \min_v \left( \text{InstantaneousCost}(q, v) + \partial_t V - v \partial_q V \right)
+\]
 
 ## HJB Equation from Instantaneous Cost
 
@@ -145,9 +145,9 @@ Assume the cost of trading is quadratic in rate due to market impact:
 
 Then the HJB equation becomes:
 
-\\[
-\partial_t V(t, q) + \min_v \left\{ \frac{1}{2} \eta v^2 - v \partial_q V(t, q) \right\} = 0
-\\]
+\[
+\partial_t V(t, q) + \min_v \left( \frac{1}{2} \eta v^2 - v \partial_q V(t, q) \right) = 0
+\]
 
 This is the **Hamilton–Jacobi–Bellman (HJB) equation**, derived directly from the continuous-time DPP.
 
