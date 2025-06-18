@@ -1,7 +1,6 @@
 ---
 title: "From Coin Change to HJB: A Naive Introduction to Dynamic Programming"
 date: 2025-06-18
-layout: default
 ---
 
 ## Table of Contents
