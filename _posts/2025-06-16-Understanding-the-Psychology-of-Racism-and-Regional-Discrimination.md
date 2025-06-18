@@ -4,6 +4,9 @@ Unfortunately, as one can imagine, it would be very difficult to conduct an empi
 
 If one accepts the argument that a certain degree of discrimination is ingrained in human cognition as a result of evolutionary development, then it is not surprising to observe that teenagers may sometimes exhibit more discriminatory behavior than adults. This can be attributed to their limited life experience, reduced exposure to diverse people and cultures, and a lack of education.
 
+![The Big Short](https://github.com/KehanLi-1123/KehanLi.github.io/raw/master/images/TheBigShort.png)
+
+
 Below is what ChatGPT said—enjoy.
 
 **━━━━━━━━━━━━━━━━━━━**
