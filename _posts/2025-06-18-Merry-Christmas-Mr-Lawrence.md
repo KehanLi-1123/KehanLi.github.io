@@ -1,6 +1,7 @@
 ---
 title: "Merry Christmas, Mr. Lawrence: Understanding Japan’s Culture of Shame"
 date: 2025-06-18
+author: Kehan Li
 ---
 
 In the 1983 film *Merry Christmas, Mr. Lawrence*, there is a poignant exchange between Captain Yonoi (Gengo Hara) and Lieutenant Colonel John Lawrence that vividly encapsulates the cultural chasm between East and West. Captain Yonoi, a disciplined Japanese officer, expresses deep admiration for Lawrence—not simply because he is an enemy, but because he is a **“good soldier.”** Yet, Yonoi’s respect has limits. He confesses that he would hold Lawrence in even higher regard **if he had chosen to commit suicide rather than be captured**, explaining that in Japanese tradition, to die by one’s own hand—through ritual suicide or *seppuku*—is not shameful, but **an honorable end**, preserving dignity even in defeat.
