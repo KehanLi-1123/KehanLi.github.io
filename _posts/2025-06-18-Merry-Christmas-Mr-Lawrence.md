@@ -13,6 +13,17 @@ This conversation becomes a powerful entry point into understanding Japan’s cu
 
 ---
 
+## Table of Contents
+- [1. Core Concept: Shame vs. Guilt Culture](#1-core-concept-shame-vs-guilt-culture)
+- [2. Origins and Expressions](#2-origins-and-expressions)
+  - [2.1. Historical and Cultural Roots](#21-historical-and-cultural-roots)
+  - [2.2. Modern-Day Manifestations](#22-modern-day-manifestations)
+- [3. Scholarly Insight](#3-scholarly-insight)
+- [4. Strengths and Weaknesses](#4-strengths-and-weaknesses)
+- [5. Conclusion](#5-conclusion)
+
+---
+
 ## 1. Core Concept: Shame vs. Guilt Culture
 
 | Dimension         | Shame Culture (Japan)                      | Guilt Culture (Western/Christian)              |
