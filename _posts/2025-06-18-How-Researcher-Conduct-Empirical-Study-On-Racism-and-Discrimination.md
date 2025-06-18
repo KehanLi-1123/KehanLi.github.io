@@ -76,6 +76,36 @@ Researchers recommend both **careful selection** of validated instruments and **
 
 ---
 
+## 📊 Interpreting the Figure on Racial Resentment
+
+The figure plots two key elements along the **Racial Resentment** continuum (x-axis):
+
+1. **Purple area (primary y-axis, left):** This shows the **density distribution** of respondents' resentment scores. It resembles a bell curve centered around zero, indicating most people report moderate resentment, with fewer scoring very low or very high.
+
+2. **Black line (secondary y-axis, right):** This is an **Item Information Curve**, derived from **Item Response Theory (IRT)**. It shows how much precision the scale achieves at different score levels.
+
+### 🧩 What it means
+
+- **Peak of the black curve at the left (around –4 to –2):** Indicates the scale is **most informative** (i.e., precise with lower resentment scores).
+- **Flat or trough regions (around –1 to +2):** The scale provides **little information** here—meaning it can't reliably distinguish between respondents with mild to moderate resentment.
+- **Rising again at the extremes:** Suggests better discrimination of **very high resentment**, but perhaps capturing few individuals in the sample.
+
+Combined with the density plot:
+
+- Many respondents occupy the **+0 to +2** region (central area), but **the scale is least precise there**.
+- This indicates **poor measurement accuracy** precisely where many people fall—impairing the scale’s ability to detect meaningful differences among typical respondents.
+
+---
+
+### 🔍 Why it matters
+
+- **Measurement precision is uneven**: The scale is "over-tuned" for very low or very high resentment and under-performs near average scores.
+- **Floor and ceiling effects are present**, as mentioned in the article: respondents bunch near the mid‑range, where the instrument is least sensitive.
+- For researchers, this suggests the scale might **miss subtle but theoretically important variation**, reducing its practical validity in many studies.
+
+This kind of figure is a classic output of **IRT-based validation**, and aligns with the study’s broader findings that many scales have **adequate reliability but poor model fit** and **limited latent score precision**, especially across large samples :contentReference[oaicite:1]{index=1}.
+
+
 ## 📚 Reference
 
 > Skinner-Dorkenoo, A. L., Andreychik, M. R., Martingano, A. J., et al. (2023). *Evaluating the validity of race-related attitude and belief measures: Insights from over 900,000 respondents*. *Behavior Research Methods*.  
