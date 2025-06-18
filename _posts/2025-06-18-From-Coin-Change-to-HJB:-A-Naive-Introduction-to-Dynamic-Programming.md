@@ -1,3 +1,21 @@
+## Table of Contents
+
+- [A Naive Example of Dynamic Programming](#a-naive-example-of-dynamic-programming)
+  - [Problem Statement](#problem-statement)
+  - [What is Dynamic Programming?](#what-is-dynamic-programming)
+  - [Approach](#approach)
+  - [Step-by-step Computation](#step-by-step-computation)
+  - [Final DP Table](#final-dp-table)
+  - [Conclusion](#conclusion)
+- [From Inventory Problem to HJB via DPP](#from-inventory-problem-to-hjb-via-dpp)
+  - [Problem Setting](#problem-setting-optimal-inventory-liquidation)
+  - [Discrete-Time Dynamic Programming](#discrete-time-dynamic-programming)
+  - [Transition to Continuous Time](#transition-to-continuous-time)
+  - [HJB Equation](#hjb-equation-from-instantaneous-cost)
+  - [Intuition Recap](#intuition-recap)
+  - [Analogy Table](#analogy-table)
+  - [Conclusion](#conclusion-1)
+
 ## 1. A Naive Example of Dynamic Programming: Minimum Coin Change Problem
 
 ### 🧮1.1 Problem Statement
