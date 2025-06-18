@@ -18,9 +18,6 @@ layout: default
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-  {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}"><h1 class="page__title">{{ page.title }}</h1>{% endif %}
-  {% if page.author %}<meta itemprop="author" content="{{ page.author }}"><p><strong>Author:</strong> {{ page.author }}</p>{% endif %}
-  {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}"><p><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</p>{% endif %}
   {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
   {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
