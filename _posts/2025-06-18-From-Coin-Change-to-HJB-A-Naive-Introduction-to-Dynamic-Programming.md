@@ -1,6 +1,7 @@
 ---
 title: "From Coin Change to HJB: A Naive Introduction to Dynamic Programming"
 date: 2025-06-18
+author: Kehan Li
 ---
 
 ## Table of Contents
