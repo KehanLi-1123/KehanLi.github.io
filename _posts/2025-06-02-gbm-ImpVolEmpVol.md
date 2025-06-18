@@ -1,6 +1,7 @@
 ---
 title: 'GBM implied vol versus simulated empirical standard deviation'
 date: 2025-06-02
+author: Kehan Li
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
