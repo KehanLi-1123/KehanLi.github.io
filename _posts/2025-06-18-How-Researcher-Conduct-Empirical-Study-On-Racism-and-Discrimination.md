@@ -1,5 +1,3 @@
-# 🧠 How Do Researchers Measure Racism and Discrimination?
-
 Measuring attitudes like racism and discrimination is inherently difficult. These are **latent constructs**—internal beliefs and motivations that are **not directly observable**. People may also **hide or distort their true views** due to social pressure, making it harder to collect accurate data.
 
 This post explains how researchers attempt to measure such sensitive topics, based on a large-scale study involving over 910,000 people.
@@ -119,10 +117,11 @@ Combined with the density plot:
 - **Floor and ceiling effects are present**, as mentioned in the article: respondents bunch near the mid‑range, where the instrument is least sensitive.
 - For researchers, this suggests the scale might **miss subtle but theoretically important variation**, reducing its practical validity in many studies.
 
-This kind of figure is a classic output of **IRT-based validation**, and aligns with the study’s broader findings that many scales have **adequate reliability but poor model fit** and **limited latent score precision**, especially across large samples, [Skinner-Dorkenoo et al., 2023](https://link.springer.com/article/10.3758/s13428-022-01873-w).
+This kind of figure is a classic output of **IRT-based validation**, and aligns with the study’s broader findings that many scales have **adequate reliability but poor model fit** and **limited latent score precision**, especially across large samples, [Hester et al., 2023](https://link.springer.com/article/10.3758/s13428-022-01873-w).
 
 
 ## 8. 📝 Reference
 
-> Skinner-Dorkenoo, A. L., Andreychik, M. R., Martingano, A. J., et al. (2023). *Evaluating the validity of race-related attitude and belief measures: Insights from over 900,000 respondents*. *Behavior Research Methods*.  
+> Hester, N., Axt, J. R., Siemers, N., Hehman, E. (2023). *Evaluating validity properties of 25 race-related scales*. *Behavior Research Methods*.  
 [https://link.springer.com/article/10.3758/s13428-022-01873-w](https://link.springer.com/article/10.3758/s13428-022-01873-w)
+
