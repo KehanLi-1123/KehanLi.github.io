@@ -78,6 +78,9 @@ Researchers recommend both **careful selection** of validated instruments and **
 
 ## 📊 Interpreting the Figure on Racial Resentment
 
+![Racial Resentment Figure](https://raw.githubusercontent.com/KehanLi-1123/KehanLi.github.io/master/images/racial_resentment.png)
+
+
 The figure plots two key elements along the **Racial Resentment** continuum (x-axis):
 
 1. **Purple area (primary y-axis, left):** This shows the **density distribution** of respondents' resentment scores. It resembles a bell curve centered around zero, indicating most people report moderate resentment, with fewer scoring very low or very high.
