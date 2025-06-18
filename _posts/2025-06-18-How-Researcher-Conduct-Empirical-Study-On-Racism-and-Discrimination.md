@@ -119,7 +119,7 @@ Combined with the density plot:
 - **Floor and ceiling effects are present**, as mentioned in the article: respondents bunch near the mid‑range, where the instrument is least sensitive.
 - For researchers, this suggests the scale might **miss subtle but theoretically important variation**, reducing its practical validity in many studies.
 
-This kind of figure is a classic output of **IRT-based validation**, and aligns with the study’s broader findings that many scales have **adequate reliability but poor model fit** and **limited latent score precision**, especially across large samples :contentReference[oaicite:1]{index=1}.
+This kind of figure is a classic output of **IRT-based validation**, and aligns with the study’s broader findings that many scales have **adequate reliability but poor model fit** and **limited latent score precision**, especially across large samples, [Skinner-Dorkenoo et al., 2023](https://link.springer.com/article/10.3758/s13428-022-01873-w).
 
 
 ## 8. 📝 Reference
