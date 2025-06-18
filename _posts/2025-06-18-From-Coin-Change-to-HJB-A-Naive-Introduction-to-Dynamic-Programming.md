@@ -1,3 +1,9 @@
+---
+title: "From Coin Change to HJB: A Naive Introduction to Dynamic Programming"
+date: 2025-06-18
+layout: post
+---
+
 ## Table of Contents
 
 - [1. A Naive Example of Dynamic Programming: Minimum Coin Change Problem](#1-a-naive-example-of-dynamic-programming-minimum-coin-change-problem)
