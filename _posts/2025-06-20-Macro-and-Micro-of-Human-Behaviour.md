@@ -16,4 +16,7 @@ $$
 I = \beta \cdot S + \alpha
 $$
 
-Where $$ I $$
+Here, \( I \) denotes the behavior and character of an individual, while \( S \) represents the average behavior and character of the society to which this individual belongs. This society can be defined by criteria such as nationality, region, or religion. It constitutes the first factor. The term \( \alpha \) reflects the unique characteristics and behavior of the individual, which is the second factor. Based on this model each individual's behavior and character can be divided and attributed to the social factor and an \( \alpha \) factor.
+
+An analogy of the two factor model here is the capital asset pricing model (CAPM), which was introduced by Jack Treynor (1961, 1962),[4] William F. Sharpe (1964), John Lintner (1965a,b) and Jan Mossin (1966) independently, building on the earlier work of Harry Markowitz on diversification and modern portfolio theory. 
+
