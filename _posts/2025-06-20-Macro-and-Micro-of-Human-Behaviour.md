@@ -8,7 +8,10 @@ It seems prejudice and discrimination often stem from making quick judgments abo
 
 To help and remind people to fully understand individuals—and thereby reduce the chances of prejudice and discrimination—I’d like to introduce two models.
 
-The first model I want to introduce in this blog is a two factor model:
+---
+
+## 1. Two factor model
+
 
 $$
 I = \beta \cdot S + \alpha
