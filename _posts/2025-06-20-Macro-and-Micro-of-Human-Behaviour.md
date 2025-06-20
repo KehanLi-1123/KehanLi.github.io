@@ -21,10 +21,21 @@ Here, \( I \) denotes the behavior and character of an individual, while \( S \)
 An analogy to the two-factor model is the Capital Asset Pricing Model (CAPM), which was independently developed by Jack Treynor (1961, 1962), William F. Sharpe (1964), John Lintner (1965a, 1965b), and Jan Mossin (1966), building on Harry Markowitz’s earlier work on diversification and modern portfolio theory.
 
 ## 2. A multi-factor model
-To further understand an individual's behavior and character, we define the two-factor model as follows:
+To further understand an individual's behavior and character, we define the multi-factor model as follows:
 
 $$
 I = \sum_{i=1}^n \beta_i F_i + \alpha
 $$
+
+Here, \( I \) denotes the behavior and character of an individual, and \( F_i \) represents a factor or piece of information associated with this individual, such as race, gender, age, nationality, hometown (or home country), wealth, or education. In this model, we attribute an individual's behavior and character to a set of macro factors \( \{F_i\}_{i=1,\dots,n} \). 
+
+We may observe that in most cases, \( \alpha \) is not zero, indicating that there are micro, subtle, and highly personal influences that cannot be fully captured by those macro factors.
+
+## 3. Real-Life Example of \( \alpha \)
+Those with certain life experiences and observations might notice that even full siblings can have completely different characters and behaviors, despite sharing most of the same macro factors — including their genes. 
+
+
+
+
 
 
