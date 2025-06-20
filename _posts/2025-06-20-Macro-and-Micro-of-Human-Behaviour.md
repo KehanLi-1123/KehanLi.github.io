@@ -27,7 +27,7 @@ $$
 I = \sum_{i=1}^n \beta_i F_i + \alpha
 $$
 
-Here, \( I \) denotes the behavior and character of an individual, and \( F_i \) represents a factor or piece of information associated with this individual, such as race, gender, age, nationality, hometown (or home country), wealth, or education. In this model, we attribute an individual's behavior and character to a set of macro factors \( \{F_i\}_{i=1,\dots,n} \). 
+Here, \( I \) denotes the behavior and character of an individual, and \( F_i \) represents a factor or piece of information associated with this individual, such as race, gender, age, nationality, hometown (or home country), wealth, or education. In this model, we attribute an individual's behavior and character to a set of macro factors $ \{F_i\}_{i=1,\dots,n} $. 
 
 We may observe that in most cases, \( \alpha \) is not zero, indicating that there are micro, subtle, and highly personal influences that cannot be fully captured by those macro factors.
 
