@@ -4,13 +4,13 @@ date: 2025-06-18
 author: Kehan Li
 ---
 
-It seems prejudice and discrimination often stem from making quick judgments about a person based on macro-level characteristics such as race, gender, nationality, wealth, education level, or hometown (or home country). While it is true that an individual’s behavior and personality can be influenced by these macro-level factors, I would like to emphasize the importance of micro-level information—such as one’s family background and childhood experiences—in understanding a person more fully.
+It seems prejudice and discrimination often stem from making quick judgments about a person based on macro-level characteristics such as race, gender, nationality, wealth, education level, or hometown (or home country). While it is true that an individual’s behavior and personality can be influenced by these macro-level factors, I would like to emphasize the importance of micro-level information—such as one’s family background and childhood experiences, or even some random events in his life—in understanding a person more fully.
 
-To help and remind people to fully understand individuals—and thereby reduce the chances of prejudice and discrimination—I’d like to introduce two models.
+To help and remind people to fully understand individuals—and thereby reduce the chances of prejudice and discrimination—I’d like to introduce two models. Currently these two models are more qualitative than quantitative.
 
 ---
 
-## 1. Two factor model
+## 1. A two factor model
 
 
 $$
