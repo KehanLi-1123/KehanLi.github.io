@@ -8,7 +8,7 @@ It seems that racism, along with other forms of discrimination, is embedded in h
 
 Unfortunately, as one can imagine, it would be very difficult to conduct an empirical study to test this assumption or model, due to the challenge of collecting reliable data on people's attitudes toward others. Individuals may not express their true opinions in surveys, and those who hold discriminatory views may not even perceive themselves as discriminatory.
 
-If one accepts the argument that a certain degree of discrimination is ingrained in human cognition as a result of evolutionary development, then it is not surprising to observe that teenagers may sometimes exhibit more discriminatory behavior than adults. This can be attributed to their limited life experience, reduced exposure to diverse people and cultures, and a lack of education.
+If one accepts the argument that a certain degree of discrimination is ingrained in human cognition as a result of evolutionary development, then it is not surprising to observe that teenagers may sometimes exhibit more discriminatory behavior than adults. This can be attributed to their limited life experience, reduced exposure to diverse people and cultures, and a lack of education. When I say "lack of education," I’m not referring only to formal schooling, but also to other sources of learning, such as family education. A six-year-old boy in Year One might shout racist words at his schoolmates without even understanding their meaning or background. In such cases, he may simply be repeating what he has heard from adults—perhaps his own parents.
 
 ![The Big Short](https://github.com/KehanLi-1123/KehanLi.github.io/raw/master/images/TheBigShort.png)
 
