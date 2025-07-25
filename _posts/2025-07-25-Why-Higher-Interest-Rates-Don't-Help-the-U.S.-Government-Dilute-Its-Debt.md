@@ -1,3 +1,9 @@
+---
+title: "Why Higher Interest Rates Don't Help the U.S. Government Dilute Its Debt"
+date: 2025-07-25
+author: Kehan Li
+---
+
 There’s a popular intuition that rising interest rates — which push down the market value of existing bonds — might somehow benefit the U.S. government, perhaps by “diluting” or reducing the burden of its debt. 
 
 But this idea doesn’t hold up under close analysis. Let’s explore why.
