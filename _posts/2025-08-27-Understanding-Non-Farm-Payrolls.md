@@ -77,7 +77,7 @@ From Powell’s perspective, NFP helps balance these two goals:
 - Weak NFP → increases probability of cuts.  
 - Stable NFP with easing inflation → Fed signals patience, gradual easing later.  
 
-## How to Interpret Strong, Weak, and Stable NFP Prints
+## 6. How to Interpret Strong, Weak, and Stable NFP Prints
 
 Looking at historical data, the monthly change in Non-Farm Payrolls (NFP) is highly cyclical — booming in expansions, collapsing in recessions, and moderate in "normal" times. The following ranges provide a useful rule of thumb:
 
