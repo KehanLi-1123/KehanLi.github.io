@@ -1,4 +1,8 @@
-## What Does It Mean When Powell Says the Fed Will Cut Rates by 25 bps?
+---
+title: "What Does It Mean When Powell Says the Fed Will Cut Rates by 25 bps?"
+date: 2025-08-27
+author: Kehan Li
+---
 
 When Jay Powell announces that the Fed is “cutting rates by 25 basis points,” he is referring to the **federal funds target range**. This is the range of interest rates at which commercial banks lend reserves to each other overnight. For example, the Fed might lower the target range from **5.25–5.50%** to **5.00–5.25%**.
 
