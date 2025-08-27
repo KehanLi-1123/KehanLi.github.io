@@ -1,3 +1,8 @@
+---
+title: "Daily PnL of a Futures Position"
+date: 2025-08-27
+author: Kehan Li
+---
 
 Futures contracts are **marked-to-market daily**. This means your profit and loss (PnL) is not calculated directly from the underlying stock price, but from the **futures settlement price** each day.
 
