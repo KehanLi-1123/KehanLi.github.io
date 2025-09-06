@@ -30,9 +30,13 @@ $$
 Then:
 
 - **Modified duration**
-  $$ D_{\text{mod}}(y) = \sum_i p_i \, t_i = \mathbb{E}(t). $$
+  
+  $$
+  D_{\text{mod}}(y) = \sum_i p_i \, t_i = \mathbb{E}(t).
+  $$
 
 - **Convexity**
+
   $$
   C(y) = \sum_i p_i \, t_i^2 = \mathbb{E}[t^2].
   $$
