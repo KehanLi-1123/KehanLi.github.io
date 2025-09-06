@@ -1,0 +1,68 @@
+# Decline in Long-Term Interest Rates: Term Premium Compression
+
+## Yield Decomposition
+
+A long-maturity nominal yield \(y_t(n)\) can be decomposed as:
+
+\[
+y_t(n) \;=\; \underbrace{\frac{1}{n}\sum_{i=1}^{n}\mathbb{E}_t\big(i\!r_{t+i}\big)}_{\text{expected future short nominal rates}} \;+\; \underbrace{\mathrm{TP}_t(n)}_{\text{term premium}}.
+\]
+
+- **Expected future short rates**: market expectations of the average policy rate over the bond’s life.  
+- **Term premium**: extra compensation for holding long-duration bonds instead of rolling short-term instruments.
+
+The BIS note highlights that long yields declined **not** due to changes in expected future short rates, but because the **term premium compressed** (sometimes even negative).
+
+---
+
+## Why Did the Term Premium Compress?
+
+1. **ECB QE expectations (asset purchases)**  
+   - Large, price-insensitive buying of long-duration bonds reduced the free float of duration.  
+   - By the **portfolio-balance channel**, less compensation was required for holding what remained.  
+
+2. **Easy funding conditions**  
+   - LTRO/TLTRO and negative deposit rates provided abundant liquidity.  
+   - Carry/roll-down trades were attractive, so dealers accepted lower term premia.  
+
+3. **Regulatory and liability-driven demand**  
+   - Insurers and pension funds needed long-duration assets for liability matching (Solvency II, LDI).  
+   - QE + limited issuance shrank supply while demand persisted → term premia fell.  
+
+4. **Reduced macro tail risks**  
+   - Lower break-up or banking stress risks meant less risk compensation required.  
+
+---
+
+## Why This Indicates “Unusually Strong Demand”
+
+If expected policy rates are stable but long yields fall, the drop must come from lower term premia.  
+That means investors are willing to **accept less compensation for duration risk** → stronger demand for long bonds.
+
+---
+
+## Toy Example
+
+Suppose the 10y yield falls from 2.0% to 1.5%.  
+Surveys show expected short rates ~1.6% → 1.55%.  
+
+- Before: \(y = 2.0\% = 1.6\% + 0.4\%\) (TP = +40 bps)  
+- After:  \(y = 1.5\% = 1.55\% - 0.05\%\) (TP = –5 bps)  
+
+A ~45 bps compression in TP → demand-driven effect consistent with QE anticipation.
+
+---
+
+## Observable Market Signs
+
+- **Yield curve:** bull flattening led by the long end.  
+- **Swaps vs govies:** QE-induced shifts in spreads.  
+- **Forward rates:** long forwards decline more than near-term forwards.  
+- **Volatility:** lower term-structure risk premia → suppressed rate vol.  
+
+---
+
+## One-Liner Summary
+
+ECB QE expectations and easy funding created **duration scarcity**, which **compressed term premia**.  
+Thus, yields fell even without lower expected short rates, signaling **exceptionally strong demand** for long-term debt.
