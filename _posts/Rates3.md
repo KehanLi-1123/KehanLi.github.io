@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "Why Convexity Grows Rapidly with Term of Cashflows"
 date: 2025-09-06
-tags: [pensions, fixed-income, convexity, term-structure]
-math: true
-toc: true
 ---
 
 ## Introduction
