@@ -34,9 +34,7 @@ $$
 Then:
 
 - **Modified duration**
-  $$
-  D_{\text{mod}}(y) = \sum_i p_i \, t_i = \mathbb{E}(t).
-  $$
+  $$ D_{\text{mod}}(y) = \sum_i p_i \, t_i = \mathbb{E}(t). $$
 
 - **Convexity**
   $$
