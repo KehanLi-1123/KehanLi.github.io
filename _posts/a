@@ -1,0 +1,118 @@
+---
+layout: post
+title: "Traffic Light Model for Backtesting VaR"
+date: 2025-09-09
+tags: [risk-management, var, backtesting, basel]
+math: true
+toc: true
+---
+
+## Overview
+
+The **traffic light model** is a regulatory framework proposed by the Basel Committee to backtest **Value-at-Risk (VaR)** models.  
+It classifies a model’s performance into **green, yellow, or red zones** depending on the number of *exceptions* observed in backtesting.
+
+- An **exception** occurs when the realized loss on a day exceeds the predicted 1-day 99% VaR.  
+- The framework is typically applied over a **250-trading-day window** (≈ 1 year).
+
+---
+
+## 1. Statistical Setup
+
+Suppose we have:
+
+- Confidence level: 99%  
+- Backtesting horizon: 250 trading days  
+- Exceptions:  
+
+\[
+\text{Exception}_t = \mathbf{1}\{\text{Loss}_t > \text{VaR}_t\}, \quad
+N = \sum_{t=1}^{250} \text{Exception}_t
+\]
+
+Under a correct VaR model, the number of exceptions follows a **binomial distribution**:
+
+\[
+N \sim \text{Binomial}(n=250, p=0.01)
+\]
+
+with expectation:
+
+\[
+\mathbb{E}[N] = 2.5
+\]
+
+---
+
+## 2. Basel Traffic Light Zones
+
+The Basel Committee defines thresholds for the number of exceptions:
+
+- **Green zone:** \(0 \leq N \leq 4\)  
+  → Model is consistent with 99% VaR.  
+- **Yellow zone:** \(5 \leq N \leq 9\)  
+  → Model underestimates risk somewhat; subject to supervisory review.  
+- **Red zone:** \(N \geq 10\)  
+  → Model is unreliable; strong supervisory action.
+
+---
+
+## 3. Probabilities Under a Correct Model
+
+Using the binomial distribution \( \text{Binomial}(250,0.01) \):
+
+- **Green zone (0–4 exceptions):**  
+  \(\mathbb{P}(N \leq 4) \approx 89.2\%\)
+
+- **Yellow zone (5–9 exceptions):**  
+  \(\mathbb{P}(5 \leq N \leq 9) \approx 10.8\%\)
+
+- **Red zone (≥10 exceptions):**  
+  \(\mathbb{P}(N \geq 10) \approx 0.025\%\)  
+  (about 1 in 4,000)
+
+Thus, under a well-specified 99% VaR, we expect to fall in the **green zone most of the time**, occasionally in **yellow**, and *almost never* in **red**.
+
+---
+
+## 4. Capital Implications
+
+Regulatory capital for market risk is scaled by a **multiplier**:
+
+\[
+k = 3 + \text{penalty}(N)
+\]
+
+- If \(N \leq 4\), then \(k = 3\).  
+- For each step into the yellow/red zones, the penalty increases (up to a maximum of 1.0).  
+- If \(N \geq 10\), \(k = 4\).
+
+This penalizes models that produce too many exceptions by requiring banks to hold more capital.
+
+---
+
+## 5. Example
+
+Suppose you backtest a 1-day 99% VaR model with 250 daily P&L observations:
+
+- Observed exceptions: \(N = 7\)  
+- Zone: **Yellow**  
+- Interpretation: Model underestimates tail risk; capital multiplier increases above 3.
+
+---
+
+## 6. Python Snippet
+
+```python
+import scipy.stats as st
+
+n = 250
+p = 0.01
+
+prob_green = st.binom.cdf(4, n, p)
+prob_yellow = st.binom.cdf(9, n, p) - prob_green
+prob_red = 1 - st.binom.cdf(9, n, p)
+
+print(f"Green zone probability: {prob_green:.4%}")
+print(f"Yellow zone probability: {prob_yellow:.4%}")
+print(f"Red zone probability: {prob_red:.6%}")
