@@ -1,6 +1,7 @@
 ---
 title: "Gold, Real Bonds, and Option Value"
 date: 2025-09-23
+author: Kehan Li
 ---
 
 ## Gold as a Substitute for Real Bonds
