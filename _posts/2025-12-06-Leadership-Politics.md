@@ -97,11 +97,12 @@ Below are two historical examples that illustrate this vividly.
 
 ---
 
-## 7. Historical Example 1: Leadership Without Politics Is Naïve  
-### Emperor Chongzhen (崇祯帝) of the Late Ming Dynasty
+## 7. Leadership Without Politics Is Naïve： Emperor Chongzhen (崇祯帝) of the Late Ming Dynasty
 
 Chongzhen was diligent, disciplined, and personally incorruptible — traits of a potentially great leader.  
 But he lacked political skill. His court was full of factions, rumours, and entrenched interests, and he did not know how to navigate them.
+
+![*Emperor Chongzhen*](https://raw.githubusercontent.com/KehanLi-1123/KehanLi.github.io/master/images/Chongzhen.jpg)
 
 He:
 
@@ -124,8 +125,7 @@ The result: paralysis, isolation, and the fall of the Ming dynasty.
 
 ---
 
-## 8. Historical Example 2: Politics Without Leadership Is Destructive  
-### The Late Roman Republic’s Factional Infighting
+## 8. Politics Without Leadership Is Destructive： The Late Roman Republic’s Factional Infighting
 
 By the 1st century BCE, Rome had become a masterclass in political manoeuvring.  
 The Senate, populares, and optimates engaged in sophisticated alliance-building, power trading, and public manipulation.
