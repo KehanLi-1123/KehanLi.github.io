@@ -129,8 +129,9 @@ The result: paralysis, isolation, and the fall of the Ming dynasty.
 
 By the 1st century BCE, Rome had become a masterclass in political manoeuvring.  
 The Senate, populares, and optimates engaged in sophisticated alliance-building, power trading, and public manipulation.
-
 But the Republic lacked true leaders who could provide unity, vision, or institutional reform.
+
+![*Rome*](https://raw.githubusercontent.com/KehanLi-1123/KehanLi.github.io/master/images/Rome.jpg)
 
 Political actors:
 
