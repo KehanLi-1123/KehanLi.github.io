@@ -4,8 +4,6 @@ author: "Kehan Li"
 date: 2025-12-06
 ---
 
-## Overview
-
 People often sense the difference between **leadership** and **politics**, but they rarely articulate it clearly.  
 Leadership is about purpose and direction.  
 Politics is about power and influence.
