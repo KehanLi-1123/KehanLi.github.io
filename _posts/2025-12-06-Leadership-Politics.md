@@ -1,6 +1,7 @@
 ---
 title: "Leadership vs. Politics: Understanding Their Difference and Interdependence"
 author: "Kehan Li"
+date: 2025-12-06
 ---
 
 ## Overview
