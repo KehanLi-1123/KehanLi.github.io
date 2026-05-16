@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m [Kehan](https://www.linkedin.com/in/kehanli/). Welcome to my personal website — a space where I introduce myself and share my research and thoughts.
+Hi, I’m [Kehan](https://www.linkedin.com/in/kehanli/). Welcome to my personal website.
 
 My work and research
 ------
